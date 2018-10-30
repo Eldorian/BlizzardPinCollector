@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28010.2048
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlizzardPinCollector", "BlizzardPinCollector\BlizzardPinCollector.csproj", "{92124A28-F462-4125-9549-F88107711B7D}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlizzardPinCollector.UI", "BlizzardPinCollector\BlizzardPinCollector.UI.csproj", "{92124A28-F462-4125-9549-F88107711B7D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlizzardPinCollector.API", "BlizzardPinCollector.API\BlizzardPinCollector.API.csproj", "{B2F6ABFD-652F-4FD1-9490-A2BB65BCEC99}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{92124A28-F462-4125-9549-F88107711B7D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92124A28-F462-4125-9549-F88107711B7D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92124A28-F462-4125-9549-F88107711B7D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B2F6ABFD-652F-4FD1-9490-A2BB65BCEC99}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2F6ABFD-652F-4FD1-9490-A2BB65BCEC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2F6ABFD-652F-4FD1-9490-A2BB65BCEC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2F6ABFD-652F-4FD1-9490-A2BB65BCEC99}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

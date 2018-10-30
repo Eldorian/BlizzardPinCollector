@@ -1,0 +1,58 @@
+﻿@page
+@model BlizzardPinCollector.UI.Pages.PinsModel
+@{
+    ViewData["Title"] = "Pins";
+}
+
+<h2>Pins</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Pins[0].Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pins[0].Franchise)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pins[0].Source)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pins[0].Year)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Pins[0].Description)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model.Pins)
+        {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Franchise)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Source)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Year)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Description)
+            </td>
+            @*<td>
+                <a asp-page="./Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.Id">Delete</a>
+            </td>*@
+        </tr>
+        }
+    </tbody>
+</table>
+

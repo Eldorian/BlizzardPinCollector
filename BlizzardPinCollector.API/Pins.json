@@ -1,0 +1,441 @@
+[
+	{
+		"Id" : 1,
+		"Name" : "Kerrigan",
+		"Franchise" : "Starcraft",
+		"Source" : "BlizzCon",
+		"Year" : 2018,
+		"Variant" :
+			[
+				{
+					"VariantId" : 1,
+					"Name" : "Gold"
+				}
+			],
+		"Description" : "Series 5"
+	},
+	{
+		"Id" : 2,
+		"Name" : "D.Va",
+		"Franchise" : "Overwatch",
+		"Source" : "BlizzCon",
+		"Year" : 2018,
+		"Variant" :
+			[
+				{
+					"VariantId" : 1,
+					"Name" : "Gold"
+				}
+			],
+		"Description" : "Series 5"
+	},
+  {
+    "Id": 3,
+    "Name": "Zarya",
+    "Franchise": "Overwatch",
+    "Source": "BlizzCon",
+    "Year": 2018,
+    "Variant": [
+      {
+        "VariantId": 1,
+        "Name": "Gold"
+      }
+    ],
+    "Description": "Series 5"
+  },
+	{
+		"Id" : 4,
+		"Name" : "Crusader",
+		"Franchise" : "Diablo",
+		"Source" : "BlizzCon",
+		"Year" : 2018,
+		"Variant" :
+			[
+				{
+					"VariantId" : 1,
+					"Name" : "Gold"
+				}
+			],
+		"Description" : "Series 5"
+	},
+	{
+		"Id" : 5,
+		"Name" : "Mecha Tyrael",
+		"Franchise" : "Heroes of the Storm",
+		"Source" : "BlizzCon",
+		"Year" : 2018,
+		"Variant" :
+			[
+				{
+					"VariantId" : 1,
+					"Name" : "Gold"
+				}
+			],
+		"Description" : "Series 5"
+	},
+	{
+		"Id" : 6,
+		"Name" : "Ava",
+		"Franchise" : "Hearthstone",
+		"Source" : "BlizzCon",
+		"Year" : 2018,
+		"Variant" :
+			[
+				{
+					"VariantId" : 1,
+					"Name" : "Gold"
+				}
+			],
+		"Description" : "Series 5"
+	},
+	{
+		"Id" : 7,
+		"Name" : "Reaper",
+		"Franchise" : "Overwatch",
+		"Source" : "BlizzCon",
+		"Year" : 2018,
+		"Variant" :
+			[
+				{
+					"VariantId" : 1,
+					"Name" : "Gold"
+				}
+			],
+		"Description" : "Series 5"
+	},
+	{
+		"Id" : 8,
+		"Name" : "McCree",
+		"Franchise" : "Overwatch",
+		"Source" : "BlizzCon",
+		"Year" : 2018,
+		"Variant" :
+			[
+				{
+					"VariantId" : 1,
+					"Name" : "Gold"
+				}
+			],
+		"Description" : "Series 5"
+	},
+	{
+		"Id" : 9,
+		"Name" : "Saurfang",
+		"Franchise" : "Warcraft",
+		"Source" : "BlizzCon",
+		"Year" : 2018,
+		"Variant" :
+			[
+				{
+					"VariantId" : 1,
+					"Name" : "Gold"
+				}
+			],
+		"Description" : "Series 5"
+	},
+	{
+		"Id" : 10,
+		"Name" : "Jaina",
+		"Franchise" : "Warcraft",
+		"Source" : "BlizzCon",
+		"Year" : 2018,
+		"Variant" :
+			[
+				{
+					"VariantId" : 1,
+					"Name" : "Gold"
+				}
+			],
+		"Description" : "Series 5"
+	},
+	{
+		"Id" : 11,
+		"Name" : "D.Va",
+		"Franchise" : "Overwatch",
+		"Source" : "DragonCon",
+		"Year" : 2018,
+		"Variant" :
+			[
+				{
+					"VariantId" : 2,
+					"Name" : "Gold Trim"
+				}
+			],
+		"Description" : "Payload Tour"
+	},
+	{
+		"Id" : 12,
+		"Name" : "Brigitte",
+		"Franchise" : "Overwatch",
+		"Source" : "PAX East",
+		"Year" : 2018,
+		"Variant" :
+			[
+				{
+					"VariantId" : 2,
+					"Name" : "Gold Trim"
+				}
+			],
+		"Description" : "Payload Tour"
+	},
+	{
+		"Id" : 13,
+		"Name" : "Zarya",
+		"Franchise" : "Overwatch",
+		"Source" : "E3",
+		"Year" : 2018,
+		"Variant" :
+			[
+				{
+					"VariantId" : 2,
+					"Name" : "Gold Trim"
+				}
+			],
+		"Description" : "Payload Tour"
+	},
+	{
+		"Id" : 14,
+		"Name" : "Doomfist",
+		"Franchise" : "Overwatch",
+		"Source" : "SDCC",
+		"Year" : 2018,
+		"Variant" :
+			[
+				{
+					"VariantId" : 2,
+					"Name" : "Gold Trim"
+				}
+			],
+		"Description" : "Payload Tour"
+	},
+	{
+		"Id" : 15,
+		"Name" : "Reinhardt",
+		"Franchise" : "Overwatch",
+		"Source" : "NYCC",
+		"Year" : 2018,
+		"Variant" :
+			[
+				{
+					"VariantId" : 2,
+					"Name" : "Gold Trim"
+				}
+			],
+		"Description" : "Payload Tour"
+	},
+	{
+		"Id" : 16,
+		"Name" : "Genji",
+		"Franchise" : "Overwatch",
+		"Source" : "Anime Expo",
+		"Year" : 2018,
+		"Variant" :
+			[
+				{
+					"VariantId" : 2,
+					"Name" : "Gold Trim"
+				}
+			],
+		"Description" : "Payload Tour"
+	},
+	{
+		"Id" : 17,
+		"Name" : "Boombot",
+		"Franchise" : "Hearthstone",
+		"Source" : "GenCon",
+		"Year" : 2018,
+		"Variant" :
+			[],
+		"Description" : ""
+	},
+	{
+		"Id" : 18,
+		"Name" : "WoW Logo",
+		"Franchise" : "Warcraft",
+		"Source" : "Fan Expo",
+		"Year" : 2018,
+		"Variant" :
+			[],
+		"Description" : ""
+	},
+	{
+		"Id" : 19,
+		"Name" : "Azmodan",
+		"Franchise" : "Diablo",
+		"Source" : "Fan Expo",
+		"Year" : 2018,
+		"Variant" :
+			[],
+		"Description" : ""
+	},
+	{
+		"Id" : 20,
+		"Name" : "Dr. Boom",
+		"Franchise" : "Hearthstone",
+		"Source" : "Fan Expo",
+		"Year" : 2018,
+		"Variant" :
+			[],
+		"Description" : ""
+	},
+	{
+		"Id" : 21,
+		"Name" : "Tracer Chibi",
+		"Franchise" : "Overwatch",
+		"Source" : "Fan Expo",
+		"Year" : 2018,
+		"Variant" :
+			[],
+		"Description" : ""
+	},
+	{
+		"Id" : 22,
+		"Name" : "Blizzard Pin Collector",
+		"Franchise" : "Blizzard",
+		"Source" : "BlizzCon",
+		"Year" : 2018,
+		"Variant" :
+			[],
+		"Description" : "Collector Lanyard"
+	},
+	{
+		"Id" : 23,
+		"Name" : "Alliance Logo",
+		"Franchise" : "Warcraft",
+		"Source" : "PAX East",
+		"Year" : 2018,
+		"Variant" :
+			[],
+		"Description" : ""
+	},
+	{
+		"Id" : 24,
+		"Name" : "Horde Logo",
+		"Franchise" : "Warcraft",
+		"Source" : "PAX East",
+		"Year" : 2018,
+		"Variant" :
+			[],
+		"Description" : ""
+	},
+	{
+		"Id" : 25,
+		"Name" : "Los Angeles Gladiators",
+		"Franchise" : "Overwatch",
+		"Source" : "Gear Store",
+		"Year" : 2018,
+		"Variant" :
+			[],
+		"Description" : "OWL Set"
+	},
+	{
+		"Id" : 26,
+		"Name" : "Dallas Fuel",
+		"Franchise" : "Overwatch",
+		"Source" : "Gear Store",
+		"Year" : 2018,
+		"Variant" :
+			[],
+		"Description" : "OWL Set"
+	},
+	{
+		"Id" : 27,
+		"Name" : "Seoul Dynasty",
+		"Franchise" : "Overwatch",
+		"Source" : "Gear Store",
+		"Year" : 2018,
+		"Variant" :
+			[],
+		"Description" : "OWL Set"
+	},
+	{
+		"Id" : 28,
+		"Name" : "Philadelphia Fusion",
+		"Franchise" : "Overwatch",
+		"Source" : "Gear Store",
+		"Year" : 2018,
+		"Variant" :
+			[],
+		"Description" : "OWL Set"
+	},
+	{
+		"Id" : 29,
+		"Name" : "Florida Mayhem",
+		"Franchise" : "Overwatch",
+		"Source" : "Gear Store",
+		"Year" : 2018,
+		"Variant" :
+			[],
+		"Description" : "OWL Set"
+	},
+	{
+		"Id" : 30,
+		"Name" : "Houston Outlaws",
+		"Franchise" : "Overwatch",
+		"Source" : "Gear Store",
+		"Year" : 2018,
+		"Variant" :
+			[],
+		"Description" : "OWL Set"
+	},
+	{
+		"Id" : 31,
+		"Name" : "San Francisco Shock",
+		"Franchise" : "Overwatch",
+		"Source" : "Gear Store",
+		"Year" : 2018,
+		"Variant" :
+			[],
+		"Description" : "OWL Set"
+	},
+	{
+		"Id" : 32,
+		"Name" : "London Spitfire",
+		"Franchise" : "Overwatch",
+		"Source" : "Gear Store",
+		"Year" : 2018,
+		"Variant" :
+			[],
+		"Description" : "OWL Set"
+	},
+	{
+		"Id" : 33,
+		"Name" : "Los Angeles Valiant",
+		"Franchise" : "Overwatch",
+		"Source" : "Gear Store",
+		"Year" : 2018,
+		"Variant" :
+			[],
+		"Description" : "OWL Set"
+	},
+	{
+		"Id" : 34,
+		"Name" : "Boston Uprising",
+		"Franchise" : "Overwatch",
+		"Source" : "Gear Store",
+		"Year" : 2018,
+		"Variant" :
+			[],
+		"Description" : "OWL Set"
+	},
+	{
+		"Id" : 35,
+		"Name" : "Shanghai Dragons",
+		"Franchise" : "Overwatch",
+		"Source" : "Gear Store",
+		"Year" : 2018,
+		"Variant" :
+			[],
+		"Description" : "OWL Set"
+	},
+	{
+		"Id" : 36,
+		"Name" : "New York Excelsior",
+		"Franchise" : "Overwatch",
+		"Source" : "Gear Store",
+		"Year" : 2018,
+		"Variant" :
+			[],
+		"Description" : "OWL Set"
+	}
+]
