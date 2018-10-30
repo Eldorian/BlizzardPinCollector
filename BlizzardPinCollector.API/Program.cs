@@ -19,6 +19,7 @@ namespace BlizzardPinCollector.API
 
         public static IWebHostBuilder CreateWebHostBuilder(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
+                .UseUrls("http://localhost:5005")
                 .UseStartup<Startup>();
     }
 }

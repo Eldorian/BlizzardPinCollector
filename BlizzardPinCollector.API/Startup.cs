@@ -51,8 +51,7 @@ namespace BlizzardPinCollector.API
             {
                 app.UseHsts();
             }
-
-            app.UseHttpsRedirection();
+           
             app.UseMvc();
         }
     }
